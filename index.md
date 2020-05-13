@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-This class, Geospatial Programming with ArcPy, was taught to a group of students majoring in Aeronautics and Space at Ecole d'ingénieurs (EPF), as a collaboration with the RUDN University of Moscow. The students had no prior GIS (Geographic Information Systems) experience, and were exposed to programming, GIS and geospatial programming in two weeks time in this intensive course. As all students and the instructor, we are all very proud of the very interesting class projects that resulted from this class. Below are the titles and brief descriptions of the projects (data and source code included!) along with the contact information of students, in the alphabetic order (by last name).
+This class, Geospatial Programming with ArcPy, was taught to a group of students majoring in Aeronautics and Space at Ecole d'ingénieurs (EPF), as a collaboration with the RUDN University of Moscow. The students had no prior GIS (Geographic Information Systems) experience, and were exposed to programming, GIS and geospatial programming in two weeks time in this intensive course. As all students and the instructor, we are all very proud of the very interesting class projects that resulted from this class. Below are the titles and brief descriptions of the projects  in the alphabetic order (by last name).
+
+For each project all necessary data, source code included, class presentations along with the contact information of students are included. 
 
 You can use the [editor on GitHub](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
