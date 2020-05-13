@@ -1,15 +1,13 @@
 This class, Geospatial Programming with [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm), was taught to a group of students majoring in [Aeronautics and Space at Ecole d'ingénieurs (EPF)](http://epf.fr/), as a collaboration with the [RUDN University of Moscow](http://rudn.ru/). The students had no prior GIS (Geographic Information Systems) experience, and were exposed to programming, GIS and geospatial programming (using ArcPy) in two weeks time in this intensive course. As all students and the instructor, we are all very proud of the very interesting class projects that resulted from this class. 
 
-[editor on GitHub](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/edit/master/index.md)
-
 The projects showcase the power of using GIS and programming in conjunction where the input parameters can be customized by user to generate unique outcomes each time. They also display how GIS programming can be leevraged to automate complex geospatial tasks and reduce time dedicated to analysis greatly. 
 
 Below are the titles and brief descriptions of the projects  in the alphabetic order (by last name). For each project all necessary data, source code included, class presentations along with the contact information of students are included.
 
-## Use of geoprocessing to highlight the improvement of air quality in relation to confinement due to covid-19
+## [Use of geoprocessing to highlight the improvement of air quality in relation to confinement due to covid-19](https://github.com/AlexEPF/EPF-RUDN-pollution_covid)
 Nicolas Beraud nicolas.beraud@epfedu.fr
 Alex Paysant-Tholi alex.paysant-tholi@epfedu.fr
-Link: https://github.com/AlexEPF/EPF-RUDN-pollution_covid
+Link: 
 The project is used to highlight the improvement of air quality in relation to confinement due to covid-19 in Paris region. More precisely, it can be used to compare NO2 levels in Paris between two dates. It is also able to determine the number of people whose decrease of pollution is above certain value entered by the user.
 
 ## Irrigation estimation using past, present and future weather forecast based on location using geocomputation
