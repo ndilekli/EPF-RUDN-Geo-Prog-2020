@@ -1,4 +1,6 @@
-This class, Geospatial Programming with ArcPy, was taught to a group of students majoring in Aeronautics and Space at Ecole d'ingénieurs (EPF), as a collaboration with the RUDN University of Moscow. The students had no prior GIS (Geographic Information Systems) experience, and were exposed to programming, GIS and geospatial programming (using ArcPy) in two weeks time in this intensive course. As all students and the instructor, we are all very proud of the very interesting class projects that resulted from this class. 
+This class, Geospatial Programming with [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm), was taught to a group of students majoring in [Aeronautics and Space at Ecole d'ingénieurs (EPF)](http://epf.fr/), as a collaboration with the [RUDN University of Moscow](http://rudn.ru/). The students had no prior GIS (Geographic Information Systems) experience, and were exposed to programming, GIS and geospatial programming (using ArcPy) in two weeks time in this intensive course. As all students and the instructor, we are all very proud of the very interesting class projects that resulted from this class. 
+
+[editor on GitHub](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/edit/master/index.md)
 
 The projects showcase the power of using GIS and programming in conjunction where the input parameters can be customized by user to generate unique outcomes each time. They also display how GIS programming can be leevraged to automate complex geospatial tasks and reduce time dedicated to analysis greatly. 
 
@@ -37,7 +39,7 @@ The project aims to show the areas in the world that are at risks concerning the
 Marc Schwindenhammer marc.schwindenhammer@epfedu.fr
 Marine Letailleur marine.letailleur@epfedu.fr
 
-## Best cities according to on proximity to contaminant sites and air pollution with parameterized geospatial functions based on user input
+# Best cities according to on proximity to contaminant sites and air pollution with parameterized geospatial functions based on user input
 
 This work allows the user to find the best city to live in while minimizing nuclear contamination and pollution risks. The function takes as inputs, the distances from nuclear, coal, and gas power plants as well as your choice in terms of minimum population and the vacancy rate of the ideal city.
 Thomas Calvet thomas.calvet@epfedu.fr
