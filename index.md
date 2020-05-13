@@ -9,13 +9,22 @@ The objective of this project is to assist Covid-19 related efforts by creating 
 
 Made by: [Liubov Avdanina](liubov.avdanina@epfedu.fr) and [Ángel Naranjo Valiente](angel-naranjo@live.com)
 
-[Link](url) and ![Image](src)
+### Work Flowchart
 ![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/anaranjov/flowchart.png)
+
+### Example Result
+![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/anaranjov/results.png)
 
 ## [Use of geoprocessing to highlight the improvement of air quality in relation to confinement due to covid-19](https://github.com/AlexEPF/EPF-RUDN-pollution_covid)
 The project is used to highlight the improvement of air quality in relation to confinement due to covid-19 in Paris region. More precisely, it can be used to compare NO2 levels in Paris between two dates. It is also able to determine the number of people whose decrease of pollution is above certain value entered by the user.
 
 Made by: [Nicolas Beraud](nicolas.beraud@epfedu.fr) and [Alex Paysant-Tholi](alex.paysant-tholi@epfedu.fr)
+
+### Work Flowchart
+![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/alex-nicolas/Picture1.png)
+
+### Example Result
+![Image]https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/alex-nicolas/graph1.jpg)
 
 ## [Irrigation estimation using past, present and future weather forecast based on location using geocomputation](https://github.com/taraleos45/EPF-RUDN_argri_water_use2)
 This project programmatically obtains live weather conditions from OpenWeatherMap API using the python library pyowm. A a set of coordinates across France are fed to the API, and a variety of period results are interpolated across the entire country using ArcPy, in order to give insights to farmers when, where and how much to irrigate.
