@@ -24,17 +24,29 @@ Made by: [Nicolas Beraud](nicolas.beraud@epfedu.fr) and [Alex Paysant-Tholi](ale
 ![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/alex-nicolas/Picture1.png)
 
 ### Example Result
-![Image]https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/alex-nicolas/graph1.jpg)
+![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/alex-nicolas/graph1.jpg)
 
 ## [Irrigation estimation using past, present and future weather forecast based on location using geocomputation](https://github.com/taraleos45/EPF-RUDN_argri_water_use2)
 This project programmatically obtains live weather conditions from OpenWeatherMap API using the python library pyowm. A a set of coordinates across France are fed to the API, and a variety of period results are interpolated across the entire country using ArcPy, in order to give insights to farmers when, where and how much to irrigate.
 
 Made by: [Dorian Boitard](dorian.boitard@epfedu.fr)
 
+### Work Flowchart
+![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/dorian/flowchart.png)
+
+### Example Result
+![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/dorian/result.png)
+
 ## [Best cities according to on proximity to contaminant sites and air pollution with parameterized geospatial functions based on user input](https://github.com/Thomas-C-EPF/EPF-RUDN-USCityChoice-test)
 This work allows the user to find the best city to live in while minimizing nuclear contamination and pollution risks. The function takes as inputs, the distances from nuclear, coal, and gas power plants as well as your choice in terms of minimum population and the vacancy rate of the ideal city.
 
 Made by: [Thomas Calvet](thomas.calvet@epfedu.fr)
+
+### Work Flowchart
+![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/thomas/flowchart.png)
+
+### Example Result
+![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/thomas/result.png)
 
 ## [Access to healthcare using parameterized geospatial functions based on user specified inputs](https://github.com/GuillaumeIM/EPF-RUDN--Health-care-)
 The goal of this project is to find the areas furthest from a densely populated hospital and doctor in a programmatical manner based on user parameters. This can be done for different age groups and for a region or the whole country. 
