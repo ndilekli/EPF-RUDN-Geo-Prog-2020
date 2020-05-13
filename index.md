@@ -71,7 +71,7 @@ Made by: [Maelle Sannier](maelle.sannier@epfedu.fr)
 ![Image](/images/maelle/results.png)
 
 ## [Parameterized geospatial calculation of seismic and volcanic disaster risks based on human vulnerability](https://github.com/MarineLet/EPF-RUDN-Seismic)
-The project aims to show the areas in the world that are at risks concerning the seismic activity in the world. The 2 types of risks that were considered for this project are: the human risks (with the population density) and the economic risks (with the size of the urban area). To make this project even more interesting especially for people working on seismic risks, our program is highly customizable. 
+The project aims to show the areas in the world that are at risks concerning the seismic activity in the world. The two types of risks that were considered for this project are: the human risks (with the population density) and the economic risks (with the size of the urban area). To make this project even more interesting especially for people working on seismic risks, our program is highly customizable. 
 
 Made by: [Marc Schwindenhammer](marc.schwindenhammer@epfedu.fr) and [Marine Letailleur](marine.letailleur@epfedu.fr)
 
