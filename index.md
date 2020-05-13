@@ -10,10 +10,10 @@ The objective of this project is to assist Covid-19 related efforts by creating 
 Made by: [Liubov Avdanina](liubov.avdanina@epfedu.fr) and [Ángel Naranjo Valiente](angel-naranjo@live.com)
 
 ### Work Flowchart
-![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/anaranjov/flowchart.png)
+![Image](/images/anaranjov/flowchart.png)
 
 ### Example Result
-![Image](https://github.com/ndilekli/EPF-RUDN-Geo-Prog-2020/blob/master/images/anaranjov/results.png)
+![Image]/images/anaranjov/results.png)
 
 ## [Use of geoprocessing to highlight the improvement of air quality in relation to confinement due to covid-19](https://github.com/AlexEPF/EPF-RUDN-pollution_covid)
 The project is used to highlight the improvement of air quality in relation to confinement due to covid-19 in Paris region. More precisely, it can be used to compare NO2 levels in Paris between two dates. It is also able to determine the number of people whose decrease of pollution is above certain value entered by the user.
