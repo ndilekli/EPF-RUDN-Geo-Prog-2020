@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: "'Geospatial Programming using ArcPy' Class Projects"
+description: "This is the class project page showcasing the work of the Geospatial Programing Class of Spring of 2020"
 github:
   is_project_page: false
