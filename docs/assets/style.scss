@@ -1,8 +1,17 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
+$content-width: 100%;
 
-@import "jekyll-theme-midnight";
+@import "{{ site.theme }}";
 
 .inner {
   max-width: 90%;
+  width: 83.05085%;
+}
+
+main {
+  max-width: 90%;
+  width: 83.05085%;
+  margin: auto;
 }
