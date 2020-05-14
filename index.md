@@ -7,7 +7,7 @@ Below are the titles and brief descriptions of the projects  in the alphabetic o
 ## [Mapping COVID-19 risk in Spain using parametrized geospatial functions](https://github.com/Anaranjov/EPF-RUDN-COVID)
 The objective of this project is to assist Covid-19 related efforts by creating a multivariate risk surface which include risk maps for transmission and death rates of the population of Spain.
 
-Made by: [Liubov Avdanina](liubov.avdanina@epfedu.fr) and [Ángel Naranjo Valiente](angel-naranjo@live.com)
+Made by: [Liubov Avdanina](mailto:liubov.avdanina@epfedu.fr) and [Ángel Naranjo Valiente](mailto:angel-naranjo@live.com)
 
 ### Work Flowchart
 ![Image](/images/anaranjov/flowchart.png)
