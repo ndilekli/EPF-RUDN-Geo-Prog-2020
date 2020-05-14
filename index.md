@@ -59,7 +59,7 @@ Made by: [Guillaume Igersheim](mailto:Guillaume.igersheim@epfedu.fr)
 ### Example Result
 ![Image](/images/guillaume/results.png)
 
-# [GIS Programming to find an ideal location for a new astronomical observatory in France](https://github.com/maellesannier/EPF-RUDN-Observatories)
+## [GIS Programming to find an ideal location for a new astronomical observatory in France](https://github.com/maellesannier/EPF-RUDN-Observatories)
 This project can be used to find a location for a new astronomical observatory in France. As inputs it in the Altitude in France, the Luminous pollution in France, the cities and their number of inhabitants, as well as the cloudiness in France, the location of existing astronomical observatories in France, and a set of preferences specified by the user.
 
 Made by: [Maelle Sannier](mailto:maelle.sannier@epfedu.fr)
