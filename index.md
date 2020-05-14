@@ -18,7 +18,7 @@ Made by: [Liubov Avdanina](mailto:liubov.avdanina@epfedu.fr) and [Ángel Naranjo
 ## [Use of geoprocessing to highlight the improvement of air quality in relation to confinement due to covid-19](https://github.com/AlexEPF/EPF-RUDN-pollution_covid)
 The project is used to highlight the improvement of air quality in relation to confinement due to covid-19 in Paris region. More precisely, it can be used to compare NO2 levels in Paris between two dates. It is also able to determine the number of people whose decrease of pollution is above certain value entered by the user.
 
-Made by: [Nicolas Beraud](nicolas.beraud@epfedu.fr) and [Alex Paysant-Tholi](alex.paysant-tholi@epfedu.fr)
+Made by: [Nicolas Beraud](mailto:nicolas.beraud@epfedu.fr) and [Alex Paysant-Tholi](mailto:alex.paysant-tholi@epfedu.fr)
 
 ### Work Flowchart
 ![Image](/images/alex-nicolas/Picture1.png)
@@ -29,7 +29,7 @@ Made by: [Nicolas Beraud](nicolas.beraud@epfedu.fr) and [Alex Paysant-Tholi](ale
 ## [Irrigation estimation using past, present and future weather forecast based on location using geocomputation](https://github.com/taraleos45/EPF-RUDN_argri_water_use2)
 This project programmatically obtains live weather conditions from OpenWeatherMap API using the python library pyowm. A a set of coordinates across France are fed to the API, and a variety of period results are interpolated across the entire country using ArcPy, in order to give insights to farmers when, where and how much to irrigate.
 
-Made by: [Dorian Boitard](dorian.boitard@epfedu.fr)
+Made by: [Dorian Boitard](mailto:dorian.boitard@epfedu.fr)
 
 ### Work Flowchart
 ![Image](/images/dorian/flowchart.png)
@@ -40,7 +40,7 @@ Made by: [Dorian Boitard](dorian.boitard@epfedu.fr)
 ## [Best cities according to on proximity to contaminant sites and air pollution with parameterized geospatial functions based on user input](https://github.com/Thomas-C-EPF/EPF-RUDN-USCityChoice-test)
 This work allows the user to find the best city to live in while minimizing nuclear contamination and pollution risks. The function takes as inputs, the distances from nuclear, coal, and gas power plants as well as your choice in terms of minimum population and the vacancy rate of the ideal city.
 
-Made by: [Thomas Calvet](thomas.calvet@epfedu.fr)
+Made by: [Thomas Calvet](mailto:thomas.calvet@epfedu.fr)
 
 ### Work Flowchart
 ![Image](/images/thomas/flowchart.png)
@@ -51,7 +51,7 @@ Made by: [Thomas Calvet](thomas.calvet@epfedu.fr)
 ## [Access to healthcare using parameterized geospatial functions based on user specified inputs](https://github.com/GuillaumeIM/EPF-RUDN--Health-care-)
 The goal of this project is to find the areas furthest from a densely populated hospital and doctor in a programmatical manner based on user parameters. This can be done for different age groups and for a region or the whole country. 
 
-Made by: [Guillaume Igersheim](Guillaume.igersheim@epfedu.fr)
+Made by: [Guillaume Igersheim](mailto:Guillaume.igersheim@epfedu.fr)
 
 ### Work Flowchart
 ![Image](/images/guillaume/flowchart.png)
@@ -62,7 +62,7 @@ Made by: [Guillaume Igersheim](Guillaume.igersheim@epfedu.fr)
 # [GIS Programming to find an ideal location for a new astronomical observatory in France](https://github.com/maellesannier/EPF-RUDN-Observatories)
 This project can be used to find a location for a new astronomical observatory in France. As inputs it in the Altitude in France, the Luminous pollution in France, the cities and their number of inhabitants, as well as the cloudiness in France, the location of existing astronomical observatories in France, and a set of preferences specified by the user.
 
-Made by: [Maelle Sannier](maelle.sannier@epfedu.fr)
+Made by: [Maelle Sannier](mailto:maelle.sannier@epfedu.fr)
 
 ### Work Flowchart
 ![Image](/images/maelle/Flowchart.jpg)
@@ -73,7 +73,7 @@ Made by: [Maelle Sannier](maelle.sannier@epfedu.fr)
 ## [Parameterized geospatial calculation of seismic and volcanic disaster risks based on human vulnerability](https://github.com/MarineLet/EPF-RUDN-Seismic)
 The project aims to show the areas in the world that are at risks concerning the seismic activity in the world. The two types of risks that were considered for this project are: the human risks (with the population density) and the economic risks (with the size of the urban area). To make this project even more interesting especially for people working on seismic risks, our program is highly customizable. 
 
-Made by: [Marc Schwindenhammer](marc.schwindenhammer@epfedu.fr) and [Marine Letailleur](marine.letailleur@epfedu.fr)
+Made by: [Marc Schwindenhammer](mailto:marc.schwindenhammer@epfedu.fr) and [Marine Letailleur](mailto:marine.letailleur@epfedu.fr)
 
 ### Work Flowchart
 ![Image](/images/marine-marc/FlowChart.png)
@@ -84,7 +84,7 @@ Made by: [Marc Schwindenhammer](marc.schwindenhammer@epfedu.fr) and [Marine Leta
 ## [Estimating potential life nests on Mars with parameterized geospatial programming](https://github.com/YanisTOUDJI/EPF-RUDN--Mars)
 The purpose project is to find potential life nests on Mars, based on criteria that can be weighted by the user. These criteria are temperature and abundance of minerals. Prior to the GIS programming, they were georeferenced, and are used find the spots (life nests) where the right conditions meet together to potentially create life.
 
-Made by: [Yanis Toudji](yanis.toudji@epfedu.fr)
+Made by: [Yanis Toudji](mailto:yanis.toudji@epfedu.fr)
 
 ### Work Flowchart
 ![Image](/images/yanis/flowchart.png)
